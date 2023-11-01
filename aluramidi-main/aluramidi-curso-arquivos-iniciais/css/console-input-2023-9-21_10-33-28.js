@@ -1,0 +1,1 @@
+document.queryselector('.texcla_pom')
